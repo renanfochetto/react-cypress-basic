@@ -1,4 +1,4 @@
-# Testes Básicos com Cypress
+# <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="30" height="30"> Testes Básicos com Cypress
 
 O Bytebank é uma Start up fictícia utilizada nesse curso da Alura. A ideia principal desse curso é mostrar como escrever testes de ponta a ponta utilizando a ferramenta Cypress.
 
