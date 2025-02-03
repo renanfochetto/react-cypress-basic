@@ -15,9 +15,6 @@ O Bytebank é uma Start up fictícia utilizada nesse curso da Alura. A ideia pri
 
 O Bytebank é uma start up de banco digital criada para desenvolvedores e desenvolvedoras. Atualmente está na fase de desenvolvimento e conforme novas funcionalidades são adicionadas novos testes precisam ser feitos, por isso iremos escrever os testes de ponta a ponta existente na aplicação utilizando o Cypress.
 
-<img src="screen.png" alt="Imagem do Bytebank" width="50%">
-
-
 ## 🔨 Funcionalidades do projeto
 
 O projeto encontra-se em uma fase avançada, possuindo algumas páginas e diferentes telas como:
