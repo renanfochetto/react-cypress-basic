@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# Testes Básicos com Cypress
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O Bytebank é uma Start up fictícia utilizada nesse curso da Alura. A ideia principal desse curso é mostrar como escrever testes de ponta a ponta utilizando a ferramenta Cypress.
 
-## Available Scripts
+## Bytebank
 
-In the project directory, you can run:
+O Bytebank é uma start up de banco digital criada para desenvolvedores e desenvolvedoras. Atualmente está na fase de desenvolvimento e conforme novas funcionalidades são adicionadas novos testes precisam ser feitos, por isso iremos escrever os testes de ponta a ponta existente na aplicação utilizando o Cypress.
 
-### `npm start`
+<img src="screen.png" alt="Imagem do Bytebank" width="50%">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🔨 Funcionalidades do projeto
 
-### `npm test`
+O projeto encontra-se em uma fase avançada, possuindo algumas páginas e diferentes telas como:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Página Inicial
+- Página Home
+  - Tela de Cartões
+  - Tela Serviços
+  - Tela Investimentos
+- Página 404
+- Página de minha conta
 
-### `npm run build`
+O [Figma dessa aplicação você encontra aqui](https://www.figma.com/file/YJydxY5H8gf5lPLyKWOBbY?embed_host=notion&kind=&node-id=80%3A199&t=rKQJYFpJUumrCTx1-1&viewer=1).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## ✔️ Técnicas e tecnologias utilizadas
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Se liga nessa lista de tudo que usaremos nesse curso:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- `React`
+- `Create React App`
+- `Cypress`
+- `GitHub`
+- `Figma`
 
-### `npm run eject`
+E muito mais!
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🛠️ Abrir e rodar o projeto
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Para abrir e rodar o projeto, execute `npm install` para instalar as dependências e `npm start` para inicar a aplicação.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Depois, acesse <a href="http://localhost:3000/">http://localhost:3000/</a> no seu navegador.
